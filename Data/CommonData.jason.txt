@@ -1,0 +1,5 @@
+{
+  "URL":"https://testing.medgrids.com/",
+  "username1":"opgautam@agiosupport.in",
+  "password1":"123456"
+}
